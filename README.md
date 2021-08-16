@@ -10,10 +10,10 @@ This code is based on Python2.7, Pytorch 0.4.0, torchvision 0.2, CUDA 8.0
 ## Data
 
 
-Download the OULU-NPU, CASIA-FASD, Idiap Replay-Attack, MSU-MFSD and Rose-Youtu datasets.
+Download the OULU-NPU, CASIA-FASD, Idiap Replay-Attack, MSU-MFSD and Rose-Youtu datasets
 
 ## Data Processing 
-SeetaFace algotithm is utilized for face detection and face alignment. All the detected faces are normlaize to 256$\times$256$\times$3, where only RGB channels are utilized for training.
+SeetaFace algotithm is utilized for face detection and face alignment. All the detected faces are normlaize to 256 x 256 x 3, where only RGB channels are utilized for training.
 
 ## Training
 python main.py
