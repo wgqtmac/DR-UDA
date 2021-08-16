@@ -22,7 +22,7 @@ python main.py
 This project is released under the Apache 2.0 license.
 
 ## If you find this work useful, please cite our papers with the following bibtex:
-  
+```
   @article{wang2020unsupervised,
   title={Unsupervised adversarial domain adaptation for cross-domain face presentation attack detection},
   author={Wang, Guoqing and Han, Hu and Shan, Shiguang and Chen, Xilin},
@@ -32,10 +32,12 @@ This project is released under the Apache 2.0 license.
   year={2020},
   publisher={IEEE}
 }
-
+```
+```
 @inproceedings{guoqing19ada,
   title={Improving Cross-database Face Presentation Attack Detection via Adversarial Domain Adaptation},
   author={Guoqing Wang and Hu Han and Shiguang Shan and Xilin Chen},
   booktitle={Proc. ICB},
   year={2019}
 }
+```
