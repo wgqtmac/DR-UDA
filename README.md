@@ -1,5 +1,5 @@
 # DR-UDA
-This is the source code for paper "Unsupervised Adversarial Domain Adaptation for Cross-domain Face Presentation Attack Detection“ "
+This is the source code for paper ”Unsupervised Adversarial Domain Adaptation for Cross-domain Face Presentation Attack Detection“
 
 <img src="./overview.png" width = "600px" height = "250px" align=center />
 
