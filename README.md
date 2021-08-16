@@ -16,7 +16,9 @@ Download the OULU-NPU, CASIA-FASD, Idiap Replay-Attack, MSU-MFSD and Rose-Youtu 
 SeetaFace algotithm is utilized for face detection and face alignment. All the detected faces are normlaize to 256 x 256 x 3, where only RGB channels are utilized for training.
 
 ## Training
+```
 python main.py
+```
 
 ## License
 This project is released under the Apache 2.0 license.
